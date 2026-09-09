@@ -1,0 +1,14 @@
+# Local environment / secrets
+.env
+*.env.local
+*.pgpass
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Dumps and local artifacts
+*.dump
+*.sql.bak
+/tmp/
