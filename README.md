@@ -1,7 +1,4 @@
-This IS a Syst
-
-
-
+This IS a
 
 
 # SQL Advanced Demo — Level 5 Reference Repository
