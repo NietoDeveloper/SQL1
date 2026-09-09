@@ -1,4 +1,4 @@
-This IS a
+This
 
 
 # SQL Advanced Demo — Level 5 Reference Repository
