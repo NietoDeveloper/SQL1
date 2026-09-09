@@ -1,5 +1,3 @@
-
-
 # SQL Advanced Demo — Level 5 Reference Repository
 
 A **self-contained, dialect-explicit SQL template repository** built to demonstrate
