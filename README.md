@@ -391,5 +391,3 @@ Best for demos, teaching, code review, or pasting into a GUI SQL client in one s
 This repo is designed to sit **beside** your primary application database as an auxiliary/reference schema, not to replace your existing migrations:
 
 1. The entire template lives inside its own `sql_mastery` schema — it will never collide with tables in `public` or any other schema your app uses.
-2. Point your app's read replica or a secondary connection string at the same database and set `search_path` to `sql_mastery` when you want to query these tables (e.g. for demos, sandboxing, or internal tooling).
-3. To promote a piece of this template into production, copy the relevant fth `pg`, `Prisma`, or `Knex` as you normally would — nothing here is en
