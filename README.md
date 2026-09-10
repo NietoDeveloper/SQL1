@@ -242,8 +242,4 @@ Software Engineer · Full Stack · Architecture & Systems · Cloud & Digital Twi
 
 ### Advanced (Level 5) PostgreSQL — Schema · Indexing · Procedures · Security · Performance
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&lines=17+production-grade+SQL+modules+in+one+repo;Schema+%E2%86%92+Indexing+%E2%86%92+Procedures+%E2%86%92+Security+%E2%86%92+Performance;PostgreSQL+14%2B+%7C+Idempotent+%7C+Zero+manual+edits" alt="Typing SVG" />
-
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14%2B-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](./LICENSE)
-[![Status](https://img.shields.io/badge/
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&lines=17+production-grade+SQL+modules+in+one+repo;Schema+%E2%86%92+Indexing+
