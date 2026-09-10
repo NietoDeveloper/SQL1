@@ -436,8 +436,7 @@ Software Engineer · Full Stack · Architecture & Systems · Cloud & Digital Twi
 [![GitHub](https://img.shields.io/badge/GitHub-NietoDeveloper-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NietoDeveloper)
 [![Portfolio](https://img.shields.io/badge/Portfolio-manuelnieto.netlify.app-2C5364?style=for-the-badge&logo=netlify&logoColor=white)](https://manuelnieto.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:NietoSoftwareDeveloper@outlook.com)
-[![Committers Top Colombia](https://img.shields.io/badge/Committers.top-%23S%2B_Colombia-00B4D8?style=for-the-badge)](https://committers.top/colombia#NietoDeveloper)
-
+[![Committers Top Colombia](https://img.shields.io/badge/
 ![Divider](https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:0F2027&height=3&section=footer)
 
 *"Building scalable systems with 100% discipline. Code that scales, architecture that lasts."*
