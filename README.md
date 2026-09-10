@@ -404,11 +404,3 @@ This repo is designed to sit **beside** your primary application database as an 
 - All dynamic values in procedures use bound parameters (`plpgsql` variables), avoiding string-concatenated SQL and the injection risk that comes with it.
 
 ---
-
-## ⚡ Performance Notes
-
-- Composite and partial indexes are chosen to match the actual `WHERE` clauses used in the query modules — see `08_performance/01_explain_tuning.sql` for the `EXPLAIN (ANALYZE, BUFFERS)` walkthrough.
-- The materialized view (`mv_daily_sales`) shows how to precompute expensive aggregates for reporting instead of scanning `orders` on every request.
-- `FOR UPDATE` row locking in `sp_place_order` prevents overselling under concurrent load without locking the whole table.
-
----
