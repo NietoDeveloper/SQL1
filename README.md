@@ -433,9 +433,7 @@ Released under the [MIT License](./LICENSE).
 **Manuel Nieto**
 Software Engineer · Full Stack · Architecture & Systems · Cloud & Digital Twins Specialist 🚀
 
-[![GitHub](https://img.shields.io/badge/GitHub-NietoDeveloper-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NietoDeveloper)
-oColor=white)](mailto:NietoSoftwareDeveloper@outlook.com)
-[![Committers Top Colombia](https://img.shields.io/badge/
+[![GitHub](https://img.shields.io/badge/GitHub-NietoDeveloper-181badge/
 
 
 *"Building scalable systems with 100% discipline. Code that scales, architecture that lasts."*
