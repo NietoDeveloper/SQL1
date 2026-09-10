@@ -363,6 +363,4 @@ sql-mastery-template/
 | 6 | Subqueries & CTEs — correlated, recursive | `03_queries/03_subqueries_cte.sql` |
 | 7 | Window functions — `RANK`, `LAG`, running totals, `NTILE` | `03_queries/04_window_functions.sql` |
 | 8 | Views & materialized views | `05_views/01_views.sql` |
-| 9 | Stored functions & procedures with row locking | `04_procedures/01_procedures_functions.sql` |
-| 10 | Triggers — audit log, auto-maintained search index | `04_procedures/02_triggers.sql` |
-| 11 | Transactions — `SAVEPOINT`, rollback, isolation levels | 
+| 9 | Stored functions & procedures with row locking | `04_procedures/
