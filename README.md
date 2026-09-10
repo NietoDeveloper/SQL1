@@ -379,4 +379,4 @@ sql-mastery-template/
 ## 🧭 Two Ways to Use This Repo
 
 **A. As a modular repository** (`database/run_all.sql`)
-Best when this becomes a living part of a codebase: each concern lives in its own file, is easy to diff/review, and can be wired into a migration tool (Flyway, Sqitch, node-pg-migrate, Prisma migrate, etc.) by simply numbering migrations after these files.
+Best when this becomes a living part of a codebase: each concern lives in its own file, is easy to diff/review, and can be wired into a migration 
