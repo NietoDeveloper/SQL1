@@ -307,6 +307,3 @@ sql-mastery-template/
 ├── README.md                          <- you are here
 ├── LICENSE                            <- MIT
 └── database/
-    ├── sql_mastery_template.sql       <- ★ single-file version (all 17 sections)
-    ├── run_all.sql                    <- psql entry point, runs modules in order
-    │
