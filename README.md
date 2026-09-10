@@ -246,12 +246,4 @@ Software Engineer · Full Stack · Architecture & Systems · Cloud & Digital Twi
 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14%2B-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](./LICENSE)
-[![Status](https://img.shields.io/badge/Status-Production--Ready-brightgreen?style=for-the-badge)]()
-[![Idempotent](https://img.shields.io/badge/Script-Idempotent-9B59B6?style=for-the-badge)]()
-
-![Divider](https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&section=header)
-
-</div>
-
-> Technical. Robust. Secure. Fast. Runnable top to bottom on a scratch database with **zero manual edits**.
-at's Inside](#-whats-inside)
+[![Status](https://img.shields.io/badge/
