@@ -310,28 +310,3 @@ sql-mastery-template/
     ├── sql_mastery_template.sql       <- ★ single-file version (all 17 sections)
     ├── run_all.sql                    <- psql entry point, runs modules in order
     │
-    ├── 01_schema/
-    │   ├── 01_create_database.sql     <- schema bootstrap (run first)
-    │   ├── 02_tables.sql              <- tables, types, domains, constraints
-    │   └── 03_indexes.sql             <- B-tree, GIN, partial indexes
-    │
-    ├── 02_data/
-    │   └── 01_seed_data.sql           <- sample rows + UPSERT pattern
-    │
-    ├── 03_queries/
-    │   ├── 01_core_queries.sql        <- filtering, sorting, joins, self-join
-    │   ├── 02_aggregation.sql         <- GROUP BY, HAVING, GROUPING SETS
-    │   ├── 03_subqueries_cte.sql      <- correlated subqueries, CTE, recursive CTE
-    │   ├── 04_window_functions.sql    <- ROW_NUMBER, RANK, LAG, running totals
-    │   ├── 05_json.sql                <- JSONB querying and updates
-    │   └── 06_full_text_search.sql    <- tsvector / tsquery ranking
-    │
-    ├── 04_procedures/
-    │   ├── 01_procedures_functions.sql<- stored function + transactional procedure
-    │   └── 02_triggers.sql            <- audit log trigger, search-vector sync trigger
-    │
-    ├── 05_views/
-    │   └── 01_views.sql               <- regular view + materialized view
-    │
-    ├── 06_transactions/
-    │   └── 01_transactions.sql        <- BEGIN/COMMIT, SAVEPOINT, isolation notes
