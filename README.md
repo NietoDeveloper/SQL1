@@ -435,7 +435,4 @@ Software Engineer · Full Stack · Architecture & Systems · Cloud & Digital Twi
 
 [![GitHub](https://img.shields.io/badge/GitHub-NietoDeveloper-181badge/
 
-
-*"Building scalable systems with 100% discipline. Code that scales, architecture that lasts."*
-
 </div>
