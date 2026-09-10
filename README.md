@@ -365,6 +365,4 @@ sql-mastery-template/
 | 8 | Views & materialized views | `05_views/01_views.sql` |
 | 9 | Stored functions & procedures with row locking | `04_procedures/01_procedures_functions.sql` |
 | 10 | Triggers — audit log, auto-maintained search index | `04_procedures/02_triggers.sql` |
-| 11 | Transactions — `SAVEPOINT`, rollback, isolation levels | `06_transactions/01_transactions.sql` |
-| 12 | Security — least-privilege roles, Row-Level Security | `07_security/
-
+| 11 | Transactions — `SAVEPOINT`, rollback, isolation levels | 
