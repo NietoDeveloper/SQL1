@@ -355,5 +355,4 @@ sql-mastery-template/
 
 | # | Topic | File(s) |
 |:---:|---|---|
-| 1 | DDL — tables, ENUM types, domains, constraints | `01_schema/02_tables.sql` |
-| 2 | Indexing — B-tree, GIN, partial indexes | `01_schema/03_indexes.sql` |
+| 1 | DDL — tables, ENUM types, domains, constraints | `01_schema/02_tables.
