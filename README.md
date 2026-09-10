@@ -296,14 +296,4 @@ psql -U <user> -d sql_mastery_demo -f database/run_all.sql
 psql -U <user> -d sql_mastery_demo -f database/sql_mastery_template.sql
 ```
 
-> ♻️ **Idempotent by design** — the script drops and recreates its own `sql_mastery` schema, so re-running it never conflicts with an existing application schema in the same database.
-
----
-
-## 🗂️ Folder Map
-
-```
-sql-mastery-template/
-├── README.md                          <- you are here
-├── LICENSE                            <- MIT
-└── database/
+> ♻️ **Idempotent by design** — the script drops and recreates its own `sql_mastery` schema, so re-running it never conflicts with an existing 
