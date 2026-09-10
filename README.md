@@ -382,9 +382,4 @@ sql-mastery-template/
 Best when this becomes a living part of a codebase: each concern lives in its own file, is easy to diff/review, and can be wired into a migration tool (Flyway, Sqitch, node-pg-migrate, Prisma migrate, etc.) by simply numbering migrations after these files.
 
 **B. As a single portable template** (`database/sql_mastery_template.sql`)
-Best for demos, teaching, code review, or pasting into a GUI SQL client in one shot. Functionally identical to option A — same schema, same data, same objects.
-
----
-
-## 🔌 Integrating With a Web App / System
-
+Best for demos, teaching, code review, or pasting into a GUI SQL client in 
