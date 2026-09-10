@@ -400,7 +400,4 @@ This repo is designed to sit **beside** your primary application database as an 
 ## 🔒 Security Model
 
 - **Least privilege**: `app_readonly` (SELECT only) and `app_readwrite` (SELECT/INSERT/UPDATE/DELETE + EXECUTE on procedures) roles are created with no login capability by default — grant login and a password only to the specific database users that need it.
-- **Row-Level Security** is enabled on `orders`, scoped to `app.current_customer_id`, showing how to isolate tenant/customer data at the database layer instead of trusting application code alone.
-- All dynamic values in procedures use bound parameters (`plpgsql` variables), avoiding string-concatenated SQL and the injection risk that comes with it.
-
----
+- **Row-Level Security** is enabled on `orders`, scoped to 
