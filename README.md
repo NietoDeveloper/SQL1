@@ -254,21 +254,4 @@ Software Engineer · Full Stack · Architecture & Systems · Cloud & Digital Twi
 </div>
 
 > Technical. Robust. Secure. Fast. Runnable top to bottom on a scratch database with **zero manual edits**.
->
-> A single, self-contained repository that demonstrates advanced PostgreSQL end-to-end — dropped into any project as an **auxiliary/reference database layer**: a web app, a backend service, or a teaching template.
-
-<div align="center">
-
-| 🐘 Dialect | 📦 Sections | 🔒 Security Model | ⚡ Ready For |
-|:---:|:---:|:---:|:---:|
-| PostgreSQL 14+ | 17 modules | Least-privilege + RLS | Demos · Migrations · Teaching |
-
-</div>
-
----
-
-## 📑 Table of Contents
-
-- [🚀 Quick Start](#-quick-start)
-- [🗂️ Folder Map](#️-folder-map)
-- [📦 What's Inside](#-whats-inside)
+at's Inside](#-whats-inside)
