@@ -368,4 +368,3 @@ sql-mastery-template/
 | 11 | Transactions — `SAVEPOINT`, rollback, isolation levels | `06_transactions/01_transactions.sql` |
 | 12 | Security — least-privilege roles, Row-Level Security | `07_security/
 
-</div>
