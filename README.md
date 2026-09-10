@@ -354,5 +354,3 @@ sql-mastery-template/
 <div align="center">
 
 | # | Topic | File(s) |
-|:---:|---|---|
-| 1 | DDL — tables, ENUM types, domains, constraints | `01_schema/02_tables.
