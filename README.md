@@ -429,10 +429,3 @@ Released under the [MIT License](./LICENSE).
 <div align="center">
 
 ## 👤 Author
-
-**Manuel Nieto**
-Software Engineer · Full Stack · Architecture & Systems · Cloud & Digital Twins Specialist 🚀
-
-[![GitHub](https://img.shields.io/badge/GitHub-NietoDeveloper-181badge/
-
-</div>
