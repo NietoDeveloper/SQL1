@@ -290,10 +290,3 @@ createdb sql_mastery_demo
 
 # 2. Option A — run everything as separate modules (recommended for real repos)
 psql -U <user> -d sql_mastery_demo -f database/run_all.sql
-
-# 2. Option B — run the single portable file (recommended for quick demos
-#    or pasting into a GUI client like DBeaver / TablePlus / pgAdmin)
-psql -U <user> -d sql_mastery_demo -f database/sql_mastery_template.sql
-```
-
-> ♻️ **Idempotent by design** — the script drops and recreates its own `sql_mastery` schema, so re-running it never conflicts with an existing 
