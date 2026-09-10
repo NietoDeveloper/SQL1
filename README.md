@@ -360,5 +360,4 @@ sql-mastery-template/
 | 3 | DML — seed data, `INSERT ... ON CONFLICT` upsert | `02_data/01_seed_data.sql` |
 | 4 | Core querying — joins, self-joins, filtering | `03_queries/01_core_queries.sql` |
 | 5 | Aggregation — `GROUP BY`, `HAVING`, `GROUPING SETS` | `03_queries/02_aggregation.sql` |
-| 6 | Subqueries & CTEs — correlated, recursive | `03_queries/03_subqueries_cte.sql` |
-| 7 | Window functions — `RANK`, `LAG`, running totals, `NTILE` | 
+| 6 | Subqueries & CTEs — correlated, recursive | `03_queries/
