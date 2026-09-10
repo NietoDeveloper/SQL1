@@ -238,6 +238,3 @@ Software Engineer · Full Stack · Architecture & Systems · Cloud & Digital Twi
 
 <div align="center">
 
-# 🗄️ SQL Mastery Template
-
-### Advanced (Level 5) PostgreSQL — Schema · Indexing · Procedures · 
