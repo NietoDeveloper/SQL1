@@ -287,6 +287,3 @@ Software Engineer · Full Stack · Architecture & Systems · Cloud & Digital Twi
 ```bash
 # 1. Create a scratch database
 createdb sql_mastery_demo
-
-# 2. Option A — run everything as separate modules (recommended for real repos)
-psql -U <user> -d sql_mastery_demo -f database/run_all.sql
