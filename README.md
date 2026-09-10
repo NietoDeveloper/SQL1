@@ -352,5 +352,3 @@ sql-mastery-template/
 ## 📦 What's Inside
 
 <div align="center">
-
-| # | Topic | File(s) |
