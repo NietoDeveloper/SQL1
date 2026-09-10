@@ -380,6 +380,3 @@ sql-mastery-template/
 
 **A. As a modular repository** (`database/run_all.sql`)
 Best when this becomes a living part of a codebase: each concern lives in its own file, is easy to diff/review, and can be wired into a migration tool (Flyway, Sqitch, node-pg-migrate, Prisma migrate, etc.) by simply numbering migrations after these files.
-
-**B. As a single portable template** (`database/sql_mastery_template.sql`)
-Best for demos, teaching, code review, or pasting into a GUI SQL client in 
