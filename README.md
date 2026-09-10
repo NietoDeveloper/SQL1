@@ -347,8 +347,3 @@ sql-mastery-template/
         └── 02_teardown.sql            <- optional cleanup (disabled by default)
 ```
 
----
-
-## 📦 What's Inside
-
-<div align="center">
