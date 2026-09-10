@@ -388,6 +388,3 @@ Best for demos, teaching, code review, or pasting into a GUI SQL client in one s
 
 ## 🔌 Integrating With a Web App / System
 
-This repo is designed to sit **beside** your primary application database as an auxiliary/reference schema, not to replace your existing migrations:
-
-1. The entire template lives inside its own `sql_mastery` schema — it will never collide with tables in `public` or any other schema your app uses.
