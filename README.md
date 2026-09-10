@@ -240,6 +240,4 @@ Software Engineer · Full Stack · Architecture & Systems · Cloud & Digital Twi
 
 # 🗄️ SQL Mastery Template
 
-### Advanced (Level 5) PostgreSQL — Schema · Indexing · Procedures · Security · Performance
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&lines=17+production-grade+SQL+modules+in+one+repo;Schema+%E2%86%92+Indexing+
+### Advanced (Level 5) PostgreSQL — Schema · Indexing · Procedures · 
