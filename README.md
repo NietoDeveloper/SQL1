@@ -366,10 +366,6 @@ sql-mastery-template/
 | 9 | Stored functions & procedures with row locking | `04_procedures/01_procedures_functions.sql` |
 | 10 | Triggers — audit log, auto-maintained search index | `04_procedures/02_triggers.sql` |
 | 11 | Transactions — `SAVEPOINT`, rollback, isolation levels | `06_transactions/01_transactions.sql` |
-| 12 | Security — least-privilege roles, Row-Level Security | `07_security/01_roles_rls.sql` |
-| 13 | Performance — `EXPLAIN (ANALYZE, BUFFERS)`, tuning notes | `08_performance/01_explain_tuning.sql` |
-| 14 | JSON/JSONB — querying and partial updates | `03_queries/05_json.sql` |
-| 15 | Full-text search — `tsvector`/`tsquery` with ranking | `03_queries/06_full_text_search.sql` |
-| 16 | Error handling — structured `plpgsql` exception blocks | `09_maintenance/01_error_handling.sql` |
+| 12 | Security — least-privilege roles, Row-Level Security | `07_security/
 
 </div>
