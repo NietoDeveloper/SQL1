@@ -357,4 +357,4 @@ sql-mastery-template/
 |:---:|---|---|
 | 1 | DDL — tables, ENUM types, domains, constraints | `01_schema/02_tables.sql` |
 | 2 | Indexing — B-tree, GIN, partial indexes | `01_schema/03_indexes.sql` |
-| 3 | DML — seed data, `INSERT ... ON CONFLICT` upsert | `02_data/01_seed_data.sql` |
+| 3 | DML — seed data, `INSERT ... ON CONFLICT` upsert | `02_data/01_seed_data.s
