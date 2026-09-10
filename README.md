@@ -335,15 +335,3 @@ sql-mastery-template/
     │
     ├── 06_transactions/
     │   └── 01_transactions.sql        <- BEGIN/COMMIT, SAVEPOINT, isolation notes
-    │
-    ├── 07_security/
-    │   └── 01_roles_rls.sql           <- least-privilege roles, row-level security
-    │
-    ├── 08_performance/
-    │   └── 01_explain_tuning.sql      <- EXPLAIN ANALYZE + tuning checklist
-    │
-    └── 09_maintenance/
-        ├── 01_error_handling.sql      <- exception handling patterns (plpgsql)
-        └── 02_teardown.sql            <- optional cleanup (disabled by default)
-```
-
