@@ -205,9 +205,3 @@ Software Engineer · Full Stack · Architecture & Systems · Cloud & Digital Twi
 *"Building scalable systems with 100% discipline. Code that scales, architecture that lasts."*
 
 </div>
-
-
-
-
-
-
