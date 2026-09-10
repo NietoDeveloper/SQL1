@@ -399,5 +399,4 @@ This repo is designed to sit **beside** your primary application database as an 
 
 ## 🔒 Security Model
 
-- **Least privilege**: `app_readonly` (SELECT only) and `app_readwrite` (SELECT/INSERT/UPDATE/DELETE + EXECUTE on procedures) roles are created with no login capability by default — grant login and a password only to the specific database users that need it.
-- **Row-Level Security** is enabled on `orders`, scoped to 
+- **Least privilege**: `app_readonly` (SELECT only) and 
