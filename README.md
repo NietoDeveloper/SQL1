@@ -373,10 +373,3 @@ sql-mastery-template/
 | 16 | Error handling — structured `plpgsql` exception blocks | `09_maintenance/01_error_handling.sql` |
 
 </div>
-
----
-
-## 🧭 Two Ways to Use This Repo
-
-**A. As a modular repository** (`database/run_all.sql`)
-Best when this becomes a living part of a codebase: each concern lives in its own file, is easy to diff/review, and can be wired into a migration 
